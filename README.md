@@ -1,2 +1,2 @@
 # goarea
-go test repository
+go testing repository
